@@ -1,6 +1,6 @@
 # Nimrod Tools
 
-**2.1.15 · Windows 10/11 x64 · Protected executable**
+**2.1.16 · Windows 10/11 x64 · Protected executable**
 
 [تحميل Nimrod Tools](https://raw.githubusercontent.com/Nimrod60/Nimrod-Tools/main/Nimrod-Tools.exe)
 
