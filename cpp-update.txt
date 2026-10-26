@@ -1,5 +1,0 @@
-format=nimrod-tools-cpp-update-v1
-version=2.1.15
-url=https://raw.githubusercontent.com/Nimrod60/Nimrod-Tools/main/Nimrod-Tools-Cpp.exe
-sha256=bdba9bffe8c64378cc298871bc966ac78b8f7557f285ab11e84cc76a3ca86c5d
-size=12750352
