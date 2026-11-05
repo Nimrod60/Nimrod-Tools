@@ -1,10 +1,10 @@
 # Nimrod Tools
 
-**Version 2.2.1 · Windows 10/11 x64 · Protected Executable**
+**Version 2.2.2 · Windows 10/11 x64 · Protected Executable**
 
 [تحميل Nimrod Tools](https://raw.githubusercontent.com/Nimrod60/Nimrod-Tools/main/Nimrod-Tools.exe)
 
-## What's New in 2.2.1 🔥
+## What's New in 2.2.2 🔥
 
 **واجهة جديدة كليًا وتجربة استخدام محسّنة!**
 
